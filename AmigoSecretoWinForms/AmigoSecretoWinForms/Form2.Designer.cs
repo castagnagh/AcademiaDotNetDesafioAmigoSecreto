@@ -49,7 +49,7 @@
             button3.AutoSize = true;
             button3.BackgroundImage = (Image)resources.GetObject("button3.BackgroundImage");
             button3.BackgroundImageLayout = ImageLayout.Stretch;
-            button3.Location = new Point(542, 170);
+            button3.Location = new Point(542, 139);
             button3.Name = "button3";
             button3.Size = new Size(86, 86);
             button3.TabIndex = 3;
@@ -63,7 +63,7 @@
             label4.BackColor = Color.Transparent;
             label4.Font = new Font("Bookman Old Style", 12F, FontStyle.Regular, GraphicsUnit.Point);
             label4.ForeColor = SystemColors.ActiveCaptionText;
-            label4.Location = new Point(489, 259);
+            label4.Location = new Point(489, 228);
             label4.Name = "label4";
             label4.Size = new Size(196, 20);
             label4.TabIndex = 7;
@@ -73,7 +73,7 @@
             // 
             listViewNomes.Anchor = AnchorStyles.None;
             listViewNomes.Columns.AddRange(new ColumnHeader[] { nome, email });
-            listViewNomes.Location = new Point(176, 333);
+            listViewNomes.Location = new Point(176, 284);
             listViewNomes.Name = "listViewNomes";
             listViewNomes.Size = new Size(594, 344);
             listViewNomes.TabIndex = 8;
@@ -96,7 +96,7 @@
             button4.AutoSize = true;
             button4.BackgroundImage = (Image)resources.GetObject("button4.BackgroundImage");
             button4.BackgroundImageLayout = ImageLayout.Stretch;
-            button4.Location = new Point(176, 683);
+            button4.Location = new Point(176, 634);
             button4.Name = "button4";
             button4.Size = new Size(32, 32);
             button4.TabIndex = 9;
@@ -110,7 +110,7 @@
             label5.BackColor = Color.Transparent;
             label5.Font = new Font("Bookman Old Style", 12F, FontStyle.Regular, GraphicsUnit.Point);
             label5.ForeColor = SystemColors.ActiveCaptionText;
-            label5.Location = new Point(214, 688);
+            label5.Location = new Point(214, 639);
             label5.Name = "label5";
             label5.Size = new Size(107, 20);
             label5.TabIndex = 10;
@@ -124,7 +124,7 @@
             button1.BackgroundImage = (Image)resources.GetObject("button1.BackgroundImage");
             button1.BackgroundImageLayout = ImageLayout.Stretch;
             button1.ForeColor = SystemColors.ControlText;
-            button1.Location = new Point(328, 170);
+            button1.Location = new Point(328, 139);
             button1.Name = "button1";
             button1.Size = new Size(86, 86);
             button1.TabIndex = 1;
@@ -138,7 +138,7 @@
             label2.BackColor = Color.Transparent;
             label2.Font = new Font("Bookman Old Style", 12F, FontStyle.Regular, GraphicsUnit.Point);
             label2.ForeColor = SystemColors.ActiveCaptionText;
-            label2.Location = new Point(301, 259);
+            label2.Location = new Point(301, 228);
             label2.Name = "label2";
             label2.Size = new Size(140, 20);
             label2.TabIndex = 5;
@@ -146,11 +146,11 @@
             // 
             // button2
             // 
-            button2.Anchor = AnchorStyles.None;
+            button2.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
             button2.AutoSize = true;
             button2.BackgroundImage = (Image)resources.GetObject("button2.BackgroundImage");
             button2.BackgroundImageLayout = ImageLayout.Stretch;
-            button2.Location = new Point(883, 691);
+            button2.Location = new Point(883, 628);
             button2.Name = "button2";
             button2.Size = new Size(59, 58);
             button2.TabIndex = 11;
@@ -159,9 +159,9 @@
             // 
             // label3
             // 
-            label3.Anchor = AnchorStyles.None;
+            label3.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
             label3.AutoSize = true;
-            label3.Location = new Point(892, 672);
+            label3.Location = new Point(883, 610);
             label3.Name = "label3";
             label3.Size = new Size(43, 15);
             label3.TabIndex = 12;
@@ -182,7 +182,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
-            ClientSize = new Size(954, 761);
+            ClientSize = new Size(954, 698);
             Controls.Add(panel1);
             Controls.Add(label3);
             Controls.Add(button2);

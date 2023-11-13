@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Gabriel Castagna\\.nuget\\packages\\": {}
+    "C:\\Users\\GabrielCastagna\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel Castagna\\Documents\\Projetos GitHub\\AcademiaDotNetDesafioAmigoSecreto\\AmigoSecretoWinForms\\AmigoSecretoWinForms\\AmigoSecretoWinForms.csproj",
+      "projectUniqueName": "C:\\Users\\GabrielCastagna\\Documents\\_git\\AcademiaDotNetDesafioAmigoSecreto\\AmigoSecretoWinForms\\AmigoSecretoWinForms\\AmigoSecretoWinForms.csproj",
       "projectName": "AmigoSecretoWinForms",
-      "projectPath": "C:\\Users\\Gabriel Castagna\\Documents\\Projetos GitHub\\AcademiaDotNetDesafioAmigoSecreto\\AmigoSecretoWinForms\\AmigoSecretoWinForms\\AmigoSecretoWinForms.csproj",
-      "packagesPath": "C:\\Users\\Gabriel Castagna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel Castagna\\Documents\\Projetos GitHub\\AcademiaDotNetDesafioAmigoSecreto\\AmigoSecretoWinForms\\AmigoSecretoWinForms\\obj\\",
+      "projectPath": "C:\\Users\\GabrielCastagna\\Documents\\_git\\AcademiaDotNetDesafioAmigoSecreto\\AmigoSecretoWinForms\\AmigoSecretoWinForms\\AmigoSecretoWinForms.csproj",
+      "packagesPath": "C:\\Users\\GabrielCastagna\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GabrielCastagna\\Documents\\_git\\AcademiaDotNetDesafioAmigoSecreto\\AmigoSecretoWinForms\\AmigoSecretoWinForms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Gabriel Castagna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\GabrielCastagna\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
