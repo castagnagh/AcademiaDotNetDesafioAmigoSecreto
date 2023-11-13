@@ -1,6 +1,11 @@
 # AcademiaDotNetDesafioAmigoSecreto
 Desafio realizado para Academia .NET em C# utilizando Windows Forms
 
+## Link para exibição do Desafio no YouTube
+
+`https://www.youtube.com/watch?v=jSzk30tclQ0`
+
+
 2) Desafio: Windows Form + Listas + Arquivo
     Tendo como base o programa do Amigo Secreto, refatorá-lo para que funcione em um ambiente gráfico Windows Forms
         A interface de comunicação é livre, ou seja, cada um pode organizar a forma de se comunicar com o usuário. Porém, todas
