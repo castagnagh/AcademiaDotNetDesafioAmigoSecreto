@@ -1,10 +1,11 @@
 # AcademiaDotNetDesafioAmigoSecreto
 Desafio realizado para Academia .NET em C# utilizando Windows Forms
 
-## Link para exibição do Desafio no YouTube
+#### Link para exibição do Desafio no YouTube
 
-`https://www.youtube.com/watch?v=jSzk30tclQ0`
+[Link do Projeto no Youtube](https://www.youtube.com/watch?v=jSzk30tclQ0)
 
+# Instruções
 
 2) Desafio: Windows Form + Listas + Arquivo
     Tendo como base o programa do Amigo Secreto, refatorá-lo para que funcione em um ambiente gráfico Windows Forms
